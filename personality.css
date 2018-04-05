@@ -1,0 +1,16 @@
+.wrapper {
+    width: 50%;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(219, 225, 107);
+}
+
+img {
+    width: 100%;
+}
+
+li {
+    padding: 1em;
+}
